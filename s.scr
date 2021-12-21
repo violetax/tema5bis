@@ -1,0 +1,6 @@
+#!/bin/bash
+
+for i in `seq 15`
+do
+	hugo new presentacion/s${i}.md
+done

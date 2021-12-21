@@ -1,0 +1,42 @@
+#!/bin/bash
+
+sed -i 's/title: "S3"/title: "Derechos"/' s3.md
+sed -i 's/draft: true/weight: 3/' s3.md
+
+sed -i 's/title: "S4"/title: "%%%"/' s4.md
+sed -i 's/draft: true/weight: 4/' s4.md
+
+sed -i 's/title: "S5"/title: "%%%"/' s5.md
+sed -i 's/draft: true/weight: 5/' s5.md
+
+sed -i 's/title: "S6"/title: "%%%"/' s6.md
+sed -i 's/draft: true/weight: 6/' s6.md
+
+sed -i 's/title: "S7"/title: "%%%"/' s7.md
+sed -i 's/draft: true/weight: 7/' s7.md
+
+sed -i 's/title: "S8"/title: "%%%"/' s8.md
+sed -i 's/draft: true/weight: 8/' s8.md
+
+sed -i 's/title: "S9"/title: "%%%"/' s9.md
+sed -i 's/draft: true/weight: 9/' s9.md
+
+sed -i 's/title: "S10"/title: "%%%"/' s10.md
+sed -i 's/draft: true/weight: 10/' s10.md
+
+sed -i 's/title: "S11"/title: "%%%"/' s11.md
+sed -i 's/draft: true/weight: 11/' s11.md
+
+sed -i 's/title: "S12"/title: "%%%"/' s12.md
+sed -i 's/draft: true/weight: 12/' s12.md
+
+sed -i 's/title: "S13"/title: "%%%"/' s13.md
+sed -i 's/draft: true/weight: 13/' s13.md
+
+sed -i 's/title: "S14"/title: "%%%"/' s14.md
+sed -i 's/draft: true/weight: 14/' s14.md
+
+sed -i 's/title: "S15"/title: "%%%"/' s15.md
+sed -i 's/draft: true/weight: 15/' s15.md
+
+
